@@ -1,0 +1,4 @@
+** Library Management System using MS SQL Server
+
+- Reference codes/queries-
+https://www.w3resource.com/projects/sql/sql-projects-on-library-management-system.php
